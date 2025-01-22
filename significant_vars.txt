@@ -1,0 +1,13 @@
+## Significant Positive Correlation
+Hygine Rating,
+Social Media Popularity (Instagram and Facebook),
+Value for Money,
+Live Music Rating,
+Zomato Ratings,
+City,
+Endorsed By,
+Restaurant Type
+
+## Significant Negative Correlations:
+Restaurant Tier,
+
